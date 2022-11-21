@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SensorApplication</string>
+    <string name="show_subtitle">Pokaz podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="sensor_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="Light_sensor_label">Nazwa czujnika</string>
+    <string name="pressure_sensor_label">Wartość czujnika światła:</string>
+    <string name="temperature_sensor_label">Wartość czujnika temperatury:</string>
+    <string name="last_localization">Wciśnij przycisk aby pobrać ostatnią lokalizację</string>
+    <string name="button_to_location">Lokalizacja</string>
+    <string name="location_text">Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="location_permission_denied">Odmówiono zezwolenia dostępu do lokalizacji</string>
+    <string name="address_text">Adres: %1$s \n Czas: %2$tr</string>
+    <string name="service_not_available">Serwis niedostępny"</string>
+    <string name="no_address_found">Nie znaleziono adresu</string>
+</resources>
